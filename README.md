@@ -9,4 +9,4 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+CICADA Demo hosted on [Hugging Face](https://huggingface.co/cicada-project) spaces. Built with [Gradio](https://www.gradio.app/).
