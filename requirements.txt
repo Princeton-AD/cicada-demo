@@ -1,5 +1,6 @@
-numpy
-matplotlib
-tensorflow
-huggingface_hub
-qkeras
+numpy==1.26.0
+gradio==4.8.0
+matplotlib==3.7.2
+mplhep==0.3.31
+tensorflow==2.10.0
+huggingface_hub==0.16.4
